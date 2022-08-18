@@ -1,0 +1,220 @@
+.main {
+    width: 2200px;
+    height: 1200px;
+    background-size: cover;
+    /* position: relative; */
+    background-repeat:no-repeat;
+    /* background-size: contain; */
+    box-sizing: border-box;
+    background-image: url("https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&w=1000&q=80")
+}
+.body{
+    background-color: black;
+    width: 100%;
+}
+
+/* @media screen and (max-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  } */
+
+.nav {
+    border: 0 2px solid white;
+    position: absolute;
+    background-color: transparent !important;
+}
+.nav-link {
+    color:white; 
+
+}
+.navbar-brand{
+    color: white;
+}
+.button{
+    text-align: center;
+    width: 100px;
+    height: 120px;
+    background-color: brown;
+    border: 0px 4px solid black;
+    color: white;
+}
+.welcome{
+    color: rgb(232, 38, 38);
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 400px;
+    font-size: 25px;
+}
+.food{
+    color: white;
+    font-size: 120px;
+}
+.card-div{
+    background-color: darkslategrey;
+    /* height: max-content;
+    width: 100%; */
+}
+.card{
+    background-color: rgb(0, 0, 0);
+    margin: 50px;
+    height: 500px;
+    width: 400px;
+    color: white;
+    /* padding-left: 100px; */
+}
+.col-6{
+    width: 40%;
+    /* height: 200px; */
+}
+.col-6 h1 {
+    font-size: 100px;
+   /* padding-top: 100px; */
+    color: white;
+    /* align-items: flex-end; */
+}
+/* .navbar-brand{
+    display: flex;
+    align-items: flex-end;
+} */
+.col-6 p{
+    color: white;
+}
+.col-6 {
+    font-size: 30px;
+    color: burlywood;
+    text-align: left;
+    
+}
+/* #us{
+    padding-top: 30%;
+} */
+.bTN{
+    /* color: white; */
+    width: 200px;
+    height: 150px;
+    background-color: burlywood;
+    color: white;
+}
+/* .img{
+    margin-left: 30px;
+    size-adjust: 200px;
+    padding-top: 40%;
+     
+} */
+.us{
+    padding-top: 30%;
+}
+.about_us_img{
+    width: 400px;
+    padding-top: 90px;
+    padding-left: 20px;
+}
+.navbar-brand{
+    font-size: 100px;
+    
+}
+.navbar-brand:hover{
+    color: red;
+}
+.nav-link{
+   padding-left: 30px;
+    border-style:groove;
+    /* border-left: 20px; */
+    padding-left:2px;
+    border-width: 5px;
+    font-size: 30px;
+}
+.nav-link:hover{
+    color: red;
+}
+
+.navbar-brand:hover{
+    color: red;
+
+}
+.s-card{
+    background-color: black;
+    height: 130%;
+    width: 100%;
+}
+.frst-img{
+    padding-left: 30%;
+    height: 800px;
+    width: 600px;
+    padding-bottom: 10%;
+    
+}
+.card-body{
+    color: white;
+}
+.center-pera{
+    padding-top: 35%;
+    text-align: center;
+}
+.second-img{
+    padding-left: 10%;
+    height: 800px;
+    width: 600px;
+    padding-bottom: 10%;
+    
+}
+.pera{
+    font-size: 35px;
+}
+.heading{
+    font-size: 100px;
+    /* padding-left: 20%; */
+
+}
+.us-2{
+    font-size: 30px;
+    color: burlywood;
+}
+.button-3{
+    text-align: center;
+    width: 250px;
+    height: 140px;
+    background-color: burlywood;
+    color: white;
+    margin-left: 43%;
+    font-size: 30px;
+    padding: 30px;
+}
+.card-text{
+    font-size: 30px;
+}
+.card-title{
+    font-size: 60px;
+}
+.heading-2{
+    font-size: 100px;
+    padding-left: 15%;
+    color: white;
+}
+.us-3{
+    font-size: 37px;
+    color: burlywood;
+    padding-left: 15%;
+    
+
+}
+.card-3{
+    background-color:rgb(25, 35, 35);
+    height: 100%;
+    width: 100%;
+}
+.sfm-price{
+    color: white;
+}
+.button-4{
+    text-align: center;
+    width: 250px;
+    height: 140px;
+    background-color: lightskyblue;
+    color: white;
+    margin-left: 43%;
+    font-size: 30px;
+    padding: 30px;
+
+}
